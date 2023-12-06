@@ -4,6 +4,9 @@
 # PART 2 - Mastering Ecommerce: .NET 8 Blazor WebAssembly Core Hosted Project for Online Phone Shop App https://youtu.be/pBpwjTo_It0
 ![Screenshot 2023-12-03 143838](https://github.com/Netcode-Hub/DemoBlazorDotnet8EcormmercePhoneShopSolution/assets/110794348/a5cea151-81c8-44bc-8a23-9471f3486063)
 
+# PART 3 - Mastering Ecommerce: .NET 8 Blazor WebAssembly Core Hosted Project for Online Phone Shop App https://youtu.be/2BZojtVpszQ
+![Screenshot 2023-12-04 151702](https://github.com/Netcode-Hub/DemoBlazorDotnet8EcormmercePhoneShopSolution/assets/110794348/9c86f2b7-ad32-4e35-8de5-19e9ab145c94)
+
 /*Follow Netcode-Hub*/ <br/>
 https://netcodehub.blogspot.com <br/> 
 https://github.com/Netcode-Hub <br/>
